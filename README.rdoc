@@ -1,6 +1,17 @@
 = timestamp_toolkit
 
-Description goes here.
+Ever felt rails missing some timestamp related functionalities? e.g.:
+
+1. scoping on timestamp
+2. more semantic naming when using attr getter/setter on timestamp
+3. timestamp appears as boolean value in form
+4. timestamp based actions
+
+Timestamp Toolkit is here to rescue!
+
+//TODO fill in the basic concepts and explainations
+
+//TODO fill in the usage examples
 
 == Contributing to timestamp_toolkit
  
